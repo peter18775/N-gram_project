@@ -1,0 +1,31 @@
+Model,Setting,Test_Perplexity
+1-gram,MLE,536.1817
+2-gram,MLE,inf
+3-gram,MLE,inf
+4-gram,MLE,inf
+1-gram,Add-1,536.6617
+2-gram,Add-1,463.1116
+3-gram,Add-1,1966.4405
+4-gram,Add-1,4348.2567
+Interpolation,"Tuned λ₁–λ₄ (0.292, 0.526, 0.182, 0.0)",129.1554
+Stupid Backoff,α=0.6,128.8281
+1-gram,MLE,536.1817
+2-gram,MLE,inf
+3-gram,MLE,inf
+4-gram,MLE,inf
+1-gram,Add-1,536.6617
+2-gram,Add-1,463.1116
+3-gram,Add-1,1966.4405
+4-gram,Add-1,4348.2567
+Interpolation,"Tuned λ₁–λ₄ (0.292, 0.526, 0.182, 0.0)",129.1554
+Stupid Backoff,α=0.6,128.8281
+1-gram,MLE,536.1817
+2-gram,MLE,inf
+3-gram,MLE,inf
+4-gram,MLE,inf
+1-gram,Add-1,536.6617
+2-gram,Add-1,463.1116
+3-gram,Add-1,1966.4405
+4-gram,Add-1,4348.2567
+Interpolation,"Tuned λ₁–λ₄ (0.292, 0.526, 0.182, 0.0)",129.1554
+Stupid Backoff,α=0.6,128.8281
